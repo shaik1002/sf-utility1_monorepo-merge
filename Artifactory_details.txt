@@ -1,0 +1,5 @@
+publish to alpha artifactory
+----------------------------
+url=abc.sfpocs.com
+betaurl=xyz.sfpocs.com
+testing commit on live gitalb for 15t may
