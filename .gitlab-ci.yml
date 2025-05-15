@@ -1,0 +1,9 @@
+image: python:3.6
+
+stages:
+  - dummy_echo
+  
+dummy_echo:
+  stage: dummy_echo
+  script:
+    - echo "Ci successful"
